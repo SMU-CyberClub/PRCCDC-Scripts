@@ -9,3 +9,5 @@ Scripts for use in the PRCCDC
 ##### cron-scheduler.sh - shell script to modify root crontab
 ##### update.sh - linux app update script
 ##### update.ps - windows OS update script
+
+Backup scripts - to save files configuration, etc.
