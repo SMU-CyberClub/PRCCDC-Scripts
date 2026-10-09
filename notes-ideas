@@ -1,0 +1,11 @@
+may be one for new user or account locked up
+ 
+also one to setup key log in one, so no ssh  and only local access from us
+ 
+also one that check for keys, so if we see one we dont know could be the hackers and delete them
+
+port inventory - check open ports on systems - nmap?
+
+network connection monitor - basic one
+
+
